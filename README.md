@@ -1,7 +1,7 @@
 
 DTTP WEB DEV PROJECT
 # Password Generator
-
+# link to demo (https://github.com/dunsin2018/password_generator/commit/cf484baab80b4ea704bffc8881294b4baaba9679)
 ## Overview
 
 This is a simple password generator web application. It allows users to generate strong and secure passwords with various options like length and types of characters to include. Users can customize their passwords to meet their specific requirements and generate new passwords whenever needed.
